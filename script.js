@@ -31,7 +31,7 @@ navBar.forEach(function(a){
             }
         }, step);
     }
-    counter("count1", 0, 1287, 3000);
+    counter("count1",0,1287,3000);
     counter("count2", 100, 5786, 2500);
     counter("count3", 0, 1440, 3000);
     counter("count4", 0, 7110, 3000);
